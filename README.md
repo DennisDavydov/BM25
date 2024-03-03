@@ -9,11 +9,12 @@ evaluate.py: Evaluates the effectiveness of the inverted index by comparing sear
 ## Usage
 First, you need to build the inverted index from your dataset:
 
-'''
+```bash
 python inverted_index.py <path-to-your-dataset>
-'''
+```
 
 To evaluate the performance of your search engine:
-'''
+
+```bash
 python evaluate.py <path-to-your-dataset> <path-to-benchmark-data>
-'''
+```
