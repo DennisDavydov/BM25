@@ -18,3 +18,5 @@ To evaluate the performance of your search engine:
 ```bash
 python evaluate.py <path-to-your-dataset> <path-to-benchmark-data>
 ```
+
+Replace '<path-to-something>' with actual path to the required files.
